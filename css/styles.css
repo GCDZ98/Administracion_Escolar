@@ -1,15 +1,24 @@
 :root{
+    /* Global variables */
     --primary-color: #294A70;
     --secondary-color: #F4A024;
     --primary-font: 'Roboto', sans-serif;
     --secondary-font: 'Open Sans', sans-serif;
 }
+
+/* Reset properties */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     /* font-family: 'Merriweather Sans', sans-serif; */
     font-family: var(--primary-font)
 }
+/* Header */
+
+/* Main */
+
+/* Footer */
